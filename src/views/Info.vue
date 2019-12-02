@@ -13,7 +13,7 @@
         store,
         methods: {
             add () {
-               console.log('add');
+               console.log('add info');
                store.commit('increase')
             }
         }
